@@ -4,3 +4,4 @@ If u know how to detect faces from image.then it will be very easy for u learn i
 In this we use only video capturing method which runs under condition until and unless it is true.
 when it false it break and release webcam and destroyallwindows with the help of .release() and .destroyallwindows().
 And u are done..
+To view output,u have to download the video i attached with it...
